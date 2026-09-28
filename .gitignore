@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Never commit game packages, extracted native libraries, or Gadget binaries.
+*.apk
+*.apks
+*.xapk
+*.so
+
+# Local device/debug artifacts.
+*.log
+*.png
+*.jpg
+*.jpeg
+*.xml
+device-dumps/

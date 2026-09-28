@@ -1,0 +1,8 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "kalpa_overlay_agent.bundle.js"
+  },
+  "teardown": "full",
+  "runtime": "qjs"
+}
